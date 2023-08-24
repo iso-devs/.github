@@ -1,3 +1,3 @@
 ## isoVerse-Mc Development
 
-Welcome to the isoVerse-Mc developement github page.
+Welcome to the isoVerse-MC developement github page.
